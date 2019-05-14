@@ -1,4 +1,4 @@
-### Grid_kathara_lab
+### Kathara for GRID&CLOUD 2019 spring
 
 This project illustrates work with Kathara framework:
 https://github.com/KatharaFramework/Kathara
