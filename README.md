@@ -33,3 +33,5 @@ Apache is running on the server. And address 10.0.0.1 respond to requests (acros
 Now we can observe how the impact on the router affects the user experience:
 
 [![ZtjRbw4iNkKITz7UitrJ9GahFYmi0y43xLe2J45A.gif](https://s3.gifyu.com/images/ZtjRbw4iNkKITz7UitrJ9GahFYmi0y43xLe2J45A.gif)](https://gifyu.com/image/9Rja)
+
+Thus, the Kathara framework is extremely useful for rapid prototyping of networks цшер different configurations and load simulation.
