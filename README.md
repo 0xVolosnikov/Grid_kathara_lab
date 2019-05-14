@@ -35,10 +35,11 @@ git clone https://github.com/vladyan18/Grid_kathara_lab
 ## Create directory for user "Kathara"
 In Users directiry if your OS is Windows. This is required for solving a possible problem with cyrillic text in the directory names.
 Note that Kathara framework was changed by me to avoid problems.
-Modified file:
+Replace in your Kathara:
 ``` 
 Kathara\bin\python\netkit_commons.py 
 ``` 
+with netkit_commons.py from this repo.
 
 ## Start project
 ``` 
