@@ -38,7 +38,8 @@ Note that Kathara framework was changed by me to avoid problems.
 
 ## Start project
 ``` 
-$NETKIT_HOME/lstart
+Linux: $NETKIT_HOME/lstart
+Windows: %NETKIT_HOME%\lstart
 ``` 
 
 ## Run any client server application
