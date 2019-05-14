@@ -3,7 +3,7 @@
 This project illustrates work with Kathara framework:
 https://github.com/KatharaFramework/Kathara
 
-The network is configured using Netkit. Network layout:
+The network is configured using Netkit. Final network layout (can be easily extended):
 <img src="https://i.ibb.co/QdLQjjQ/image.png" alt="image" border="0"></a>
 
 ## Install Kathara
@@ -17,6 +17,7 @@ git clone https://github.com/vladyan18/Grid_kathara_lab
 
 ## Create directory for user "Kathara"
 In Users directiry if your OS is Windows. This is required for solving a possible problem with cyrillic text in the directory names.
+Note that Kathara framework was changed by me to avoid problems.
 
 ## Start project
 ``` 
