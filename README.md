@@ -6,6 +6,23 @@ https://github.com/KatharaFramework/Kathara
 The network is configured using Netkit. Final network layout (can be easily extended):
 <img src="https://i.ibb.co/QdLQjjQ/image.png" alt="image" border="0"></a>
 
+Kathara lab configuration:
+``` 
+Server[0]=A
+
+router1[0]=A
+router1[1]=B
+
+router2[0]=B
+router2[1]=C
+
+cl1[0]=C
+
+cl2[0]=C
+
+cl3[0]=C
+``` 
+
 ## Install Kathara
 Instructions:
 https://github.com/KatharaFramework/Kathara/wiki
